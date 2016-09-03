@@ -1,7 +1,7 @@
 #include "stdafx.h"
 #include <iostream>
-#define SOUND "\a"
-#define NEXT_LINE "\n"
+#define SOUND '\a'
+#define NEXT_LINE '\n'
 
 
 int main()
