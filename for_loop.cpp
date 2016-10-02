@@ -1,5 +1,5 @@
 // The program's calculating values of sum of all numbers from first to second numbers
-// If first number bigger than second, than second one will be replaced first and first about second. 
+// If first number bigger than second, than second one will be replaced first and first by second. 
 
 #include "stdafx.h"
 #include <iostream>
